@@ -1,6 +1,6 @@
 ## The Code and Experiental results for paper 
 
-#### Operational Calibration: Debugging Confidence Errors for DNNs in the Field
+#### [Operational Calibration: Debugging Confidence Errors for DNNs in the Field](https://arxiv.org/abs/1910.02352)
 This is a folder contrains code and all experimental results in the paper.
 
 #### Datasets
@@ -20,10 +20,7 @@ The pre-trained model of ImageNet dataset is driven from PyTorch.
 #### Experimental results
 
 - The Efficacy of our calibration method are evaluated in `/Efficacy`.
-
 - The Efficiency of our calibration method are evaluated in `/Efficiency`.
-
-- The Fine-tuning experiments for three simple tasks is located in `/Fine-tuning-exp`,  and on the other three tasks, the fine-tuning nearly could not work, the detailed results can be seen in `dataset/model/fine_tune.py`
 - The Surprise Adequacy Regression can be found in `/SA-exp`.
 - The other two machine learning model for regression can be found in `/Regression`.
 - The temperature scaling is used from this [repository](https://github.com/gpleiss/temperature_scaling), and the code can be found in `/Temperature-scaling`.

@@ -3,3 +3,9 @@ Operational-Calibration/Temperature-scaling/cifar100/data/utils/__pycache__
 Operational-Calibration/Temperature-scaling/cifar10/data/utils/__pycache__
 Operational-Calibration/SA-exp/imageCLEF/model/utils/__pycache__
 Operational-Calibration/SA-exp/CIFAR-10/data/utils/__pycache__
+Operational-Calibration/Efficacy-exp/CIFAR-100/data/utils/__pycache__
+Operational-Calibration/Efficacy-exp/ImageNet-Top1/data/utils/__pycache__
+Operational-Calibration/Efficacy-exp/MNIST/__pycache__
+Operational-Calibration/Efficacy-exp/MNIST/model/__pycache__
+Operational-Calibration/Efficacy-exp/Polarity/__pycache__
+Operational-Accuracy/Efficiency-exp/Polarity/__pycache__

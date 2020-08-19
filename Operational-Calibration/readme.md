@@ -32,9 +32,12 @@ The pre-trained model of ImageNet dataset is driven from PyTorch.
 
 ****
 
-**I am too lazy to reconstruct my code...** 
+Finally, run `Evaluation.py` to evaluate our method.
 
-**but I think that the key code for this work is very simple (in `GP_build.py`), thus maybe one can easily apply this code...** 
+****
+**I am too lazy to refactor my code...** 
+
+**but I think the key code of this work is very simple (in `GP_build.py`), thus maybe one can easily apply this code...** 
 
  
 

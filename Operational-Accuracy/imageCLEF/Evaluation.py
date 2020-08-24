@@ -142,7 +142,7 @@ def evaluate(x_op, y_op, sample_size, statistic=50):
     :param y_op: operational label
     '''
 
-    num_cluster = np.minimum(num_classes, 10)
+    num_cluster = np.minimum(num_classes, 6)
     print('cluster num: {}'.format(num_cluster))
     from sklearn.cluster import KMeans
     cluster = KMeans(n_clusters=num_cluster).fit(x_op.cpu().detach().numpy())
